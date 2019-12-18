@@ -95,6 +95,7 @@ setup(
             'pydocstyle = pyls.plugins.pydocstyle_lint',
             'pyflakes = pyls.plugins.pyflakes_lint',
             'pylint = pyls.plugins.pylint_lint',
+            'pyspark = pyls.plugins.pyspark_lint',
             'rope_completion = pyls.plugins.rope_completion',
             'rope_rename = pyls.plugins.rope_rename',
             'yapf = pyls.plugins.yapf_format'
